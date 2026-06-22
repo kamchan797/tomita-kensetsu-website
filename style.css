@@ -376,7 +376,7 @@ textarea:focus-visible {
   align-items: start;
 }
 .greeting-photo { position: relative; }
-.greeting-photo img { border-radius: var(--radius-m); }
+.greeting-photo img { border-radius: var(--radius-m); width: 100%; height: auto; }
 .greeting-name {
   margin-top: 20px;
   font-family: var(--font-display);
