@@ -290,6 +290,15 @@ textarea:focus-visible {
   margin-bottom: 24px;
   letter-spacing: 0.5px;
 }
+.hero-copy h1 .h1-sub {
+  display: block;
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 2px;
+  line-height: 1.6;
+  color: var(--line-on-navy);
+  margin-bottom: 10px;
+}
 .hero-copy .lead {
   color: var(--line-on-navy);
   font-size: 16px;

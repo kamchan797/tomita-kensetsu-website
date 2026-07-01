@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kamchan797.github.io/tomita-kensetsu-website/sitemap.xml
